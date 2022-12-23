@@ -1,2 +1,2 @@
-# the-daily-heil
+# Innocent Headline Generator
  Daily-Mail-O-Matic Fork
