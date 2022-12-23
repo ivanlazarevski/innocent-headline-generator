@@ -118,7 +118,7 @@ subjects = [
 "dumbing-down",3,1,
 "rip-off britain",3,1,
 "the internet",3,1,
-"facebook",3,1,             // I CAN'T BELIEVE THE MAIL ACTUALLY SAID FACEBOOK COULD GIVE YOU CANCER, FOR REAL
+"facebook",3,1,             
 "twitter",3,1,             
 "filth on television",3,1,
 "the human rights act",3,1,
