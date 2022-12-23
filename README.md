@@ -1,2 +1,2 @@
 # Innocent Headline Generator
- Daily-Mail-O-Matic Fork
+ Forked from THAT website. Yeah. It got killed so we have to keep up the good work.
